@@ -26,7 +26,7 @@
 
 ### ✨ Sobre mim
 
-Desenvolvedora de Software e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**. Minha transição da **Enfermagem (USP / Albert Einstein)** para a tecnologia combina visão analítica, cuidado com as pessoas e paixão por resolver problemas.
+Desenvolvedora de Software e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes**. Minha transição da **Enfermagem (USP)** para a tecnologia combina visão analítica, cuidado com as pessoas e paixão por resolver problemas.
 
 ---
 
