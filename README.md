@@ -101,12 +101,12 @@ Desenvolvedora de Software e estudante de **Análise e Desenvolvimento de Sistem
 <div align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Debora-Albuquerque&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debora-Albuquerque&theme=tokyonight"
     alt="Estatísticas do GitHub de Debora Albuquerque"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debora-Albuquerque&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debora-Albuquerque&theme=tokyonight"
     alt="Linguagens mais usadas por Debora Albuquerque"
   />
 </div>
